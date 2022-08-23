@@ -2,7 +2,7 @@
 
 # school-library-oop
 
-> school library is the console app that let the user can manage the books in the libary by adding new person like student and teacher and their book rental information.
+> school library is the console app that let the user can manage the books in the libary by adding new person like student and teacher and their book rentals information.
 
 ## Built With
 
