@@ -33,6 +33,7 @@ $ ruby --version && irb
 
 ```
 $ git  clone git@github.com:worashf/school-library-ruby.git
+ run ruby main.rb
 ```
 
 ## Authors
